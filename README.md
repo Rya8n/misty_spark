@@ -12,7 +12,7 @@ How to use:
 
 4. Use the served model by changing the llm variable in the code. (default: gemma3:12b)
 
-5. Provided footages under the footage folder
+5. Provide footages under the footage folder
 
 6. Start main.py
 
