@@ -1,3 +1,5 @@
+Misty Spark is a llm powered geolocator. It can guess a location based on given images. 
+
 How to use:
 
 1. Install everything in requirements.txt. Make sure you use python 3.11 or above
